@@ -1,0 +1,5 @@
+.venv
+chromedriver-win64
+ALL_mix_data
+CP_no_image_and_descr.csv
+inventory_data_10000.csv
